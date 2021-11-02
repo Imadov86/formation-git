@@ -1,9 +1,11 @@
-# formation-git
+
 # formation-git
 
-# Titre niveau 1
 
 ## Titre niveau 2
+
+## Titre niveau 3
+
 
 +1
 +2
@@ -20,4 +22,5 @@ Formation *Git*
 '''html
 <html></html>
 '''
-[lien](html://google.fr)
+
+[lien](http://google.fr)
